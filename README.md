@@ -1,4 +1,4 @@
-# SILI Game: Milestone 05
+# SILI Game: Milestone 06
 In this final milestone, we will complete our game. We will detect mouse clicks to produce player projectiles, and will have the opponents launch projectiles. The game will keep track of your score and end the game when the player gets hit by an opponent projectile or collides with an opponent.
 
 ## GameElement(game_element.h/game_element.cc)
